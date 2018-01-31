@@ -1,0 +1,108 @@
+/* ZA Header */
+header {
+  width: 100%;
+  position: relative;
+  text-align: right;
+  background-color: white;
+
+  }
+
+.gmail{
+  display: inline-block;
+  right: 0px;
+  width: 50px;
+  height: 20px;
+
+
+}
+.images{
+  display: inline-block;
+  width: 50px;
+  height: 20px;
+
+}
+.apps{
+  display: inline-block;
+  right: 0px;
+  width: 50px;
+  height: 20px;
+}
+.slika{
+  display: inline-block;
+  height: 30px;
+  text-align: center;
+  padding: 0px 5px -50px 0px;
+}
+.sign-in {
+  right: 0px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 2px;
+  display: inline-block;
+  color: white;
+  background-color: #4387fd;
+  padding: 5px 8px;
+  margin: 0px;
+
+}
+.link{
+  text-decoration: none;
+  color: gray;
+  text-align: center;
+}
+
+/*Za body*/
+.main {
+  margin-top: 25%;
+  text-align: center;
+}
+.google {
+
+}
+.search {
+
+
+}
+.button{
+  margin: 10px;
+}
+
+.tekst{
+  margin: 10px;
+  font-size: 12px;
+
+}
+/*za footer*/
+footer{
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+  text-align: left;
+  background-color: #f2f2f2;
+  border-top: 1px solid #e4e4e4
+}
+.drzava{
+  font-size: 15px;
+  margin: 10px;
+}
+.lijevo{
+  display: inline-block;
+}
+.adv,.biz,.about,.privacy,.terms,.settings{
+  display: inline-block;
+  margin: 10px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.desno{
+  display: inline-block;
+  position: absolute;
+  right: 0px;
+
+}
+.link2{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
